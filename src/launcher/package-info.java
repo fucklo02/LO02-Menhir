@@ -3,6 +3,8 @@
  * @author Tristan Charuel <tristan.charuel@utt.fr>
  * @author Julien Egret <julien.egret@utt.fr>
  *
- * Package contenant le fonctionnement de la console
+ * Package contenant le launcheur de l'application
+ * 
  */
-package console;
+
+package launcher;
